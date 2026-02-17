@@ -45,7 +45,7 @@ function App() {
       headerAvatar={avatar}
       customFooter={
         <div className="Footer">
-          <a href={"https://${t}"} target="_blank" rel="noreferrer">
+          <a href={`https://${t}`} target="_blank" rel="noreferrer">
             {t}
           </a>
           <a href={`mailto:${e}`}>{e}</a>
