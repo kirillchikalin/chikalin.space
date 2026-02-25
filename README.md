@@ -1,1 +1,1 @@
-![og-image](https://chikalin.space/media/og-image.png)
+[![chikalin.space](https://chikalin.space/media/og-image.png)](https://chikalin.space)
